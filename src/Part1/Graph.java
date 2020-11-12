@@ -1,7 +1,6 @@
 //-----------------------------------------------------
 // Title: CMPE 343
 // Author: Ahmet Cemal Sert
-// ID: 43999263780
 // Section: 1
 // Assignment: HW2 Part1
 // Description: This class contains an Undirected Graph Implementation
